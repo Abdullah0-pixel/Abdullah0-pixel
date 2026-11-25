@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## next time i will share everycode that i will made in this platform we will start building codes starting from the real math behind the code to python to C and Rust 
 <!--
 **Abdullah0-pixel/Abdullah0-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
